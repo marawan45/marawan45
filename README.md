@@ -8,9 +8,7 @@
 
 <h3 align="center">Data Analyst | BI Developer | Machine Learning Engineer</h3>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=marawan45&label=Profile%20views&color=0e75b6&style=flat" alt="marawan45" />
