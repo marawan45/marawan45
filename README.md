@@ -10,9 +10,7 @@
 
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=marawan45&label=Profile%20views&color=0e75b6&style=flat" alt="marawan45" />
-</p>
+
 
 <p align="center">
   🎓 Computer Science Graduate (AI Major) | CGPA: 3.81/4.0 | Ranked 4th in Class<br/>
