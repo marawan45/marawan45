@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Marwan+Eslam!;" />
 </h1>
 
-<h3 align="center">Data Analyst | BI Developer | Machine Learning Engineer</h3>
+<h3 align="center">Data Scientist & ML researcher |  Machine Learning Engineer | Data Analyst</h3>
 
 
 
