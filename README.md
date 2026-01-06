@@ -35,17 +35,7 @@
 
 ---
 
-# 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marawan45&theme=radical&hide_border=true&include_all_commits=false&count_private=false" height="180"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=marawan45&theme=radical&hide_border=true" height="180"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marawan45&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="180"/>
-</div>
-
----
 
 ### 🔝 Top Contributed Repo
 
