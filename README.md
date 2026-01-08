@@ -26,7 +26,7 @@
 
 ---
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/marawan.eslam.756999) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marwan-eslam-analyst-scientist) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:marawaneslam145@gmail.com) 
 
 ---
@@ -35,7 +35,8 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat-square&logo=numpy&logoColor=blue) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat-square&logo=streamlit&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
 
 ---
-## 🎯 Professional Services
+# 🎯 Professional Services
+
 **What I Offer**:
 **📊 Custom Analytics Dashboards: Interactive Power BI/Streamlit dashboards**
 
@@ -49,17 +50,18 @@
 
 
 
-### 🤝 Collaboration Philosophy
+# 🤝 Collaboration Philosophy
 
-I believe in transparent, iterative development with regular client check-ins. My approach combines:
+**I believe in transparent, iterative development with regular client check-ins. My approach combines:**
 
-Discovery Phase: Understanding business context and data landscape
+**Discovery Phase: Understanding business context and data landscape**
 
-Rapid Prototyping: Quick iterations to validate approaches
+**Rapid Prototyping: Quick iterations to validate approaches**
 
-Robust Development: Production-ready code with documentation
+**Robust Development: Production-ready code with documentation**
 
-Knowledge Transfer: Ensuring clients can maintain and extend solutions
+**Knowledge Transfer: Ensuring clients can maintain and extend solutions**
+
 
 ### 📬 Let's Connect & Collaborate
 
