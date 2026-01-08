@@ -36,6 +36,9 @@
 
 ---
 # 🎯 Professional Services
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/service.gif" width="500" height="300" alt="Professional Services"/>
+</div>
 
 **What I Offer**:
 **📊 Custom Analytics Dashboards: Interactive Power BI/Streamlit dashboards**
@@ -63,21 +66,22 @@
 **Knowledge Transfer: Ensuring clients can maintain and extend solutions**
 
 
-### 📬 Let's Connect & Collaborate
-
-I'm actively seeking opportunities to:
-
-Solve challenging data problems across industries
-
-Contribute to impactful open-source data science projects
-
-Mentor aspiring data professionals
-
-Partner with organizations on their data transformation journey
+# 📬 Let's Connect & Collaborate
 
 
+**I'm actively seeking opportunities to:**
 
-### ✍️ Random Dev Quote
+**Solve challenging data problems across industries**
+
+**Contribute to impactful open-source data science projects**
+
+**Mentor aspiring data professionals**
+
+**Partner with organizations on their data transformation journey**
+
+
+
+# ✍️ Random Dev Quote
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
