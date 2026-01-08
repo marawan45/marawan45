@@ -35,25 +35,44 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat-square&logo=numpy&logoColor=blue) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat-square&logo=streamlit&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
 
 ---
-# 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marawan45&theme=radical&hide_border=true&include_all_commits=false&count_private=false" height="180"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=marawan45&theme=radical&hide_border=true" height="180"/>
-</div>
+## 🎯 Professional Services
+**What I Offer**:
+**📊 Custom Analytics Dashboards: Interactive Power BI/Streamlit dashboards**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marawan45&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="180"/>
-</div>
+**🤖 ML Model Development: From data preprocessing to deployment**
 
----
+**🔍 Business Intelligence Solutions: Turn data into strategic insights**
+
+**💼 Data Strategy Consulting: Help organizations leverage their data assets**
+
+**🎓 Training & Workshops: Data literacy and technical skill development**
 
 
-### 🔝 Top Contributed Repo
 
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=marawan45&limit=5&theme=radical&combine_all_yearly_contributions=true" height="200"/>
-</div>
----
+### 🤝 Collaboration Philosophy
+
+I believe in transparent, iterative development with regular client check-ins. My approach combines:
+
+Discovery Phase: Understanding business context and data landscape
+
+Rapid Prototyping: Quick iterations to validate approaches
+
+Robust Development: Production-ready code with documentation
+
+Knowledge Transfer: Ensuring clients can maintain and extend solutions
+
+### 📬 Let's Connect & Collaborate
+
+I'm actively seeking opportunities to:
+
+Solve challenging data problems across industries
+
+Contribute to impactful open-source data science projects
+
+Mentor aspiring data professionals
+
+Partner with organizations on their data transformation journey
+
 
 
 ### ✍️ Random Dev Quote
