@@ -44,7 +44,9 @@
 
 # 🎯 Professional Services
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/service.gif" width="500" height="300" alt="Professional Services"/>
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/service.gif" width="600" height="300" alt="Professional Services Visualization"/>
+  <br>
+  <sup><i>Turning data challenges into measurable business value</i></sup>
 </div>
 
 **What I Offer**:
