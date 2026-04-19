@@ -7,7 +7,7 @@
 
 </h1>
 
-<h3 align="center">Data Scientist & ML researcher |  Machine Learning Engineer | Data Analyst</h3>
+<h3 align="center">Data Scientist & ML researcher | Teaching Assistant @BFCAI | Machine Learning Engineer </h3>
 
 
 
@@ -22,7 +22,10 @@
 ---
 
 # 💫 About Me:
-🔭 I'm currently working on **Building ML-powered analytics dashboards and predictive models**<br><br>👯 I'm looking to collaborate on **Data analytics projects, BI solutions, and open-source ML tools**<br><br>🤝 I'm looking for help with **Advanced cloud BI architectures and real-time data pipelines**<br><br>🌱 I'm currently learning **AWS data services, advanced ML algorithms, and real-time analytics**<br><br>💬 Ask me about **Power BI, Python, SQL, machine learning, or data visualization best practices**<br><br>⚡ Fun fact **I ranked 4th in my CS class while building 10+ data projects and earned 3 Oracle certifications!**
+**Data Scientist and AI Engineer with a strong academic foundation and hands-on experience delivering machine learning solutions across diverse domains.
+My expertise covers the end-to-end ML lifecycle  data engineering, model development, explainability, deployment, and monitoring  with proficiency in Python, SQL, TensorFlow, PyTorch, Scikit-learn, and Power BI. I specialize in turning ambiguous, complex datasets into structured insights and production-grade systems that generate measurable impact.
+I bring equal strength to both the analytical and engineering sides of data science, with particular depth in imbalanced classification, resampling techniques, and model optimization. Currently serving as a Teaching Assistant in Artificial Intelligence at Benha University, where I support undergraduate education while remaining actively engaged in applied research and client work.
+Driven by a commitment to continuous growth, collaborative problem-solving, and building AI that is not only powerful  but responsible and interpretable.**
 
 ---
 
