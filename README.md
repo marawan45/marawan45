@@ -22,10 +22,12 @@
 ---
 
 # 💫 About Me:
-**Data Scientist and AI Engineer with a strong academic foundation and hands-on experience delivering machine learning solutions across diverse domains.
+Data Scientist and AI Engineer with a **strong academic foundation and hands-on experience delivering machine learning solutions across diverse domains.**
 My expertise covers the end-to-end ML lifecycle  data engineering, model development, explainability, deployment, and monitoring  with proficiency in Python, SQL, TensorFlow, PyTorch, Scikit-learn, and Power BI. I specialize in turning ambiguous, complex datasets into structured insights and production-grade systems that generate measurable impact.
-I bring equal strength to both the analytical and engineering sides of data science, with particular depth in imbalanced classification, resampling techniques, and model optimization. Currently serving as a Teaching Assistant in Artificial Intelligence at Benha University, where I support undergraduate education while remaining actively engaged in applied research and client work.
-Driven by a commitment to continuous growth, collaborative problem-solving, and building AI that is not only powerful  but responsible and interpretable.**
+
+I bring equal strength to **both the analytical and engineering sides of data science**, with particular depth in imbalanced classification, resampling techniques, and model optimization. Currently serving as **a Teaching Assistant in Artificial Intelligence at Benha University**, where I support undergraduate education while remaining actively engaged in applied research and client work.
+
+**Driven by a commitment to continuous growth, collaborative problem-solving, and building AI that is not only powerful  but responsible and interpretable.**
 
 ---
 
