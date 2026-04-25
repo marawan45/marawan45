@@ -47,47 +47,147 @@ I bring equal strength to **both the analytical and engineering sides of data sc
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marawan45&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 
+🎯 Professional Services
+<table width="100%">
+  <tr>
+    <td width="50%" bgcolor="#0d1b3e" align="center">
+      <br/>
+      <b>📊 Custom Analytics Dashboards</b><br/><br/>
+      <sub>Interactive Power BI & Streamlit dashboards<br/>tailored to your business KPIs and workflows.</sub>
+      <br/><br/>
+    </td>
+    <td width="50%" bgcolor="#1a0d3e" align="center">
+      <br/>
+      <b>🤖 ML Model Development</b><br/><br/>
+      <sub>End-to-end machine learning pipelines —<br/>from data preprocessing to production deployment.</sub>
+      <br/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" bgcolor="#0d3e1b" align="center">
+      <br/>
+      <b>🔍 Business Intelligence Solutions</b><br/><br/>
+      <sub>Transform raw data into strategic insights<br/>that drive informed business decisions.</sub>
+      <br/><br/>
+    </td>
+    <td width="50%" bgcolor="#3e2a0d" align="center">
+      <br/>
+      <b>💼 Data Strategy Consulting</b><br/><br/>
+      <sub>Help organizations build, scale, and leverage<br/>their data assets for competitive advantage.</sub>
+      <br/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" bgcolor="#1a1a2e" align="center">
+      <br/>
+      <b>🎓 Training & Workshops</b><br/><br/>
+      <sub>Upskill your team with hands-on data literacy programs<br/>and technical skill development workshops.</sub>
+      <br/><br/>
+    </td>
+  </tr>
+</table>
+<br/>
 
-# 🎯 Professional Services
+🤝 Collaboration Philosophy
+<table width="100%">
+  <tr>
+    <th bgcolor="#0d1b3e" align="center" width="25%">🔭 Discovery Phase</th>
+    <th bgcolor="#1a0d3e" align="center" width="25%">⚡ Rapid Prototyping</th>
+    <th bgcolor="#0d3e1b" align="center" width="25%">🛠️ Robust Development</th>
+    <th bgcolor="#3e2a0d" align="center" width="25%">📚 Knowledge Transfer</th>
+  </tr>
+  <tr>
+    <td bgcolor="#060d1f" align="center">
+      <br/><sub>Understanding business context and mapping the full data landscape</sub><br/><br/>
+    </td>
+    <td bgcolor="#0d0620" align="center">
+      <br/><sub>Fast iterations to validate approaches and align with your vision</sub><br/><br/>
+    </td>
+    <td bgcolor="#061f0d" align="center">
+      <br/><sub>Production-ready code with thorough documentation and testing</sub><br/><br/>
+    </td>
+    <td bgcolor="#1f1206" align="center">
+      <br/><sub>Ensuring clients can independently maintain and extend solutions</sub><br/><br/>
+    </td>
+  </tr>
+</table>
 
-**What I Offer**:
-**📊 Custom Analytics Dashboards: Interactive Power BI/Streamlit dashboards**
+💡 I believe in transparent, iterative development with regular client check-ins — your success is the metric that matters most.
 
-**🤖 ML Model Development: From data preprocessing to deployment**
+<br/>
 
-**🔍 Business Intelligence Solutions: Turn data into strategic insights**
+🛠️ Tech Stack
+<table width="100%">
+  <tr>
+    <td bgcolor="#0d1b3e" align="center" width="33%">
+      <br/>
+      <b>🧠 AI / ML</b><br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+      <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+      <br/><br/>
+    </td>
+    <td bgcolor="#1a0d3e" align="center" width="33%">
+      <br/>
+      <b>📊 Analytics & BI</b><br/><br/>
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
+      <br/><br/>
+    </td>
+    <td bgcolor="#0d3e1b" align="center" width="33%">
+      <br/>
+      <b>☁️ Cloud & MLOps</b><br/><br/>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+      <br/><br/>
+    </td>
+  </tr>
+</table>
+<br/>
 
-**💼 Data Strategy Consulting: Help organizations leverage their data assets**
+📬 Let's Connect & Collaborate
+<table width="100%">
+  <tr>
+    <td bgcolor="#0d1b3e" align="center" width="25%">
+      <br/>
+      🔬<br/>
+      <b>Solve Challenging<br/>Data Problems</b><br/>
+      <sub>Across any industry,<br/>any scale</sub>
+      <br/><br/>
+    </td>
+    <td bgcolor="#1a0d3e" align="center" width="25%">
+      <br/>
+      🌍<br/>
+      <b>Open-Source<br/>Contributions</b><br/>
+      <sub>Impactful data science<br/>projects</sub>
+      <br/><br/>
+    </td>
+    <td bgcolor="#0d3e1b" align="center" width="25%">
+      <br/>
+      🎓<br/>
+      <b>Mentorship</b><br/>
+      <sub>Guiding aspiring<br/>data professionals</sub>
+      <br/><br/>
+    </td>
+    <td bgcolor="#3e2a0d" align="center" width="25%">
+      <br/>
+      🚀<br/>
+      <b>Data Transformation<br/>Partnerships</b><br/>
+      <sub>Your journey,<br/>my expertise</sub>
+      <br/><br/>
+    </td>
+  </tr>
+</table>
+<br/>
 
-**🎓 Training & Workshops: Data literacy and technical skill development**
-
-
-
-# 🤝 Collaboration Philosophy
-
-**I believe in transparent, iterative development with regular client check-ins. My approach combines:**
-
-**Discovery Phase: Understanding business context and data landscape**
-
-**Rapid Prototyping: Quick iterations to validate approaches**
-
-**Robust Development: Production-ready code with documentation**
-
-**Knowledge Transfer: Ensuring clients can maintain and extend solutions**
-
-
-# 📬 Let's Connect & Collaborate
-
-
-**I'm actively seeking opportunities to:**
-
-**Solve challenging data problems across industries**
-
-**Contribute to impactful open-source data science projects**
-
-**Mentor aspiring data professionals**
-
-**Partner with organizations on their data transformation journey**
 
 
 
