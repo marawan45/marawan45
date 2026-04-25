@@ -47,81 +47,96 @@ I bring equal strength to **both the analytical and engineering sides of data sc
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marawan45&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 
+<div align="center">
+<img src="file:///C:/Users/maraw/Downloads/banner.svg" width="100%" alt="Marwan Eslam Banner"/>
+<br/><br/>
+
+</div>
+<br/>
+
 🎯 Professional Services
 <table width="100%">
   <tr>
-    <td width="50%" bgcolor="#0d1b3e" align="center">
+    <td width="50%" bgcolor="#eef2ff" align="center">
       <br/>
-      <b>📊 Custom Analytics Dashboards</b><br/><br/>
-      <sub>Interactive Power BI & Streamlit dashboards<br/>tailored to your business KPIs and workflows.</sub>
-      <br/><br/>
+      <h3>📊 Custom Analytics Dashboards</h3>
+      <p><b>Interactive Power BI &amp; Streamlit dashboards</b><br/>tailored to your business KPIs and workflows.</p>
+      <br/>
     </td>
-    <td width="50%" bgcolor="#1a0d3e" align="center">
+    <td width="50%" bgcolor="#f3e8ff" align="center">
       <br/>
-      <b>🤖 ML Model Development</b><br/><br/>
-      <sub>End-to-end machine learning pipelines —<br/>from data preprocessing to production deployment.</sub>
-      <br/><br/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" bgcolor="#0d3e1b" align="center">
+      <h3>🤖 ML Model Development</h3>
+      <p><b>End-to-end machine learning pipelines</b><br/>from data preprocessing to production deployment.</p>
       <br/>
-      <b>🔍 Business Intelligence Solutions</b><br/><br/>
-      <sub>Transform raw data into strategic insights<br/>that drive informed business decisions.</sub>
-      <br/><br/>
-    </td>
-    <td width="50%" bgcolor="#3e2a0d" align="center">
-      <br/>
-      <b>💼 Data Strategy Consulting</b><br/><br/>
-      <sub>Help organizations build, scale, and leverage<br/>their data assets for competitive advantage.</sub>
-      <br/><br/>
     </td>
   </tr>
   <tr>
-    <td colspan="2" bgcolor="#1a1a2e" align="center">
+    <td width="50%" bgcolor="#ecfdf5" align="center">
       <br/>
-      <b>🎓 Training & Workshops</b><br/><br/>
-      <sub>Upskill your team with hands-on data literacy programs<br/>and technical skill development workshops.</sub>
-      <br/><br/>
+      <h3>🔍 Business Intelligence Solutions</h3>
+      <p><b>Transform raw data into strategic insights</b><br/>that drive informed business decisions.</p>
+      <br/>
+    </td>
+    <td width="50%" bgcolor="#fff7ed" align="center">
+      <br/>
+      <h3>💼 Data Strategy Consulting</h3>
+      <p><b>Help organizations build, scale, and leverage</b><br/>their data assets for competitive advantage.</p>
+      <br/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" bgcolor="#f0f9ff" align="center">
+      <br/>
+      <h3>🎓 Training &amp; Workshops</h3>
+      <p><b>Upskill your team with hands-on data literacy programs</b><br/>and technical skill development workshops.</p>
+      <br/>
     </td>
   </tr>
 </table>
 <br/>
 
 🤝 Collaboration Philosophy
-<table width="100%">
-  <tr>
-    <th bgcolor="#0d1b3e" align="center" width="25%">🔭 Discovery Phase</th>
-    <th bgcolor="#1a0d3e" align="center" width="25%">⚡ Rapid Prototyping</th>
-    <th bgcolor="#0d3e1b" align="center" width="25%">🛠️ Robust Development</th>
-    <th bgcolor="#3e2a0d" align="center" width="25%">📚 Knowledge Transfer</th>
-  </tr>
-  <tr>
-    <td bgcolor="#060d1f" align="center">
-      <br/><sub>Understanding business context and mapping the full data landscape</sub><br/><br/>
-    </td>
-    <td bgcolor="#0d0620" align="center">
-      <br/><sub>Fast iterations to validate approaches and align with your vision</sub><br/><br/>
-    </td>
-    <td bgcolor="#061f0d" align="center">
-      <br/><sub>Production-ready code with thorough documentation and testing</sub><br/><br/>
-    </td>
-    <td bgcolor="#1f1206" align="center">
-      <br/><sub>Ensuring clients can independently maintain and extend solutions</sub><br/><br/>
-    </td>
-  </tr>
-</table>
 
 💡 I believe in transparent, iterative development with regular client check-ins — your success is the metric that matters most.
 
+<table width="100%">
+  <tr>
+    <th bgcolor="#eef2ff" align="center" width="25%"><h3>🔭 Discovery</h3></th>
+    <th bgcolor="#f3e8ff" align="center" width="25%"><h3>⚡ Prototyping</h3></th>
+    <th bgcolor="#ecfdf5" align="center" width="25%"><h3>🛠️ Development</h3></th>
+    <th bgcolor="#fff7ed" align="center" width="25%"><h3>📚 Transfer</h3></th>
+  </tr>
+  <tr>
+    <td bgcolor="#f5f7ff" align="center">
+      <br/>
+      <p>Understanding business context and mapping the full data landscape</p>
+      <br/>
+    </td>
+    <td bgcolor="#faf5ff" align="center">
+      <br/>
+      <p>Fast iterations to validate approaches and align with your vision</p>
+      <br/>
+    </td>
+    <td bgcolor="#f0fdf4" align="center">
+      <br/>
+      <p>Production-ready code with thorough documentation and testing</p>
+      <br/>
+    </td>
+    <td bgcolor="#fffbeb" align="center">
+      <br/>
+      <p>Ensuring clients can independently maintain and extend solutions</p>
+      <br/>
+    </td>
+  </tr>
+</table>
 <br/>
 
 🛠️ Tech Stack
 <table width="100%">
   <tr>
-    <td bgcolor="#0d1b3e" align="center" width="33%">
+    <td bgcolor="#eef2ff" align="center" width="33%">
       <br/>
-      <b>🧠 AI / ML</b><br/><br/>
+      <h3>🧠 AI / ML</h3>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
@@ -129,9 +144,9 @@ I bring equal strength to **both the analytical and engineering sides of data sc
       <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
       <br/><br/>
     </td>
-    <td bgcolor="#1a0d3e" align="center" width="33%">
+    <td bgcolor="#f3e8ff" align="center" width="33%">
       <br/>
-      <b>📊 Analytics & BI</b><br/><br/>
+      <h3>📊 Analytics &amp; BI</h3>
       <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
       <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
       <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
@@ -139,9 +154,9 @@ I bring equal strength to **both the analytical and engineering sides of data sc
       <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
       <br/><br/>
     </td>
-    <td bgcolor="#0d3e1b" align="center" width="33%">
+    <td bgcolor="#ecfdf5" align="center" width="33%">
       <br/>
-      <b>☁️ Cloud & MLOps</b><br/><br/>
+      <h3>☁️ Cloud &amp; MLOps</h3>
       <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
       <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
@@ -156,39 +171,37 @@ I bring equal strength to **both the analytical and engineering sides of data sc
 📬 Let's Connect & Collaborate
 <table width="100%">
   <tr>
-    <td bgcolor="#0d1b3e" align="center" width="25%">
+    <td bgcolor="#eef2ff" align="center" width="25%">
       <br/>
-      🔬<br/>
-      <b>Solve Challenging<br/>Data Problems</b><br/>
-      <sub>Across any industry,<br/>any scale</sub>
-      <br/><br/>
+      <h2>🔬</h2>
+      <h3>Solve Challenging Data Problems</h3>
+      <p>Across any industry, any scale</p>
+      <br/>
     </td>
-    <td bgcolor="#1a0d3e" align="center" width="25%">
+    <td bgcolor="#f3e8ff" align="center" width="25%">
       <br/>
-      🌍<br/>
-      <b>Open-Source<br/>Contributions</b><br/>
-      <sub>Impactful data science<br/>projects</sub>
-      <br/><br/>
+      <h2>🌍</h2>
+      <h3>Open-Source Contributions</h3>
+      <p>Impactful data science projects</p>
+      <br/>
     </td>
-    <td bgcolor="#0d3e1b" align="center" width="25%">
+    <td bgcolor="#ecfdf5" align="center" width="25%">
       <br/>
-      🎓<br/>
-      <b>Mentorship</b><br/>
-      <sub>Guiding aspiring<br/>data professionals</sub>
-      <br/><br/>
+      <h2>🎓</h2>
+      <h3>Mentorship</h3>
+      <p>Guiding aspiring data professionals</p>
+      <br/>
     </td>
-    <td bgcolor="#3e2a0d" align="center" width="25%">
+    <td bgcolor="#fff7ed" align="center" width="25%">
       <br/>
-      🚀<br/>
-      <b>Data Transformation<br/>Partnerships</b><br/>
-      <sub>Your journey,<br/>my expertise</sub>
-      <br/><br/>
+      <h2>🚀</h2>
+      <h3>Data Transformation Partnerships</h3>
+      <p>Your journey, my expertise</p>
+      <br/>
     </td>
   </tr>
 </table>
 <br/>
-
-
 
 
 # ✍️ Random Dev Quote
